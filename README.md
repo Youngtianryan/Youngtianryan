@@ -2,19 +2,10 @@
   <img src="assets/banner.svg" alt="YoungTianryan — Ideas into useful tools" width="100%" />
 </p>
 
-<h1 align="center">你好，我是 YoungTianryan 👋</h1>
+<h1 align="center">你好，我是杨天瑞（YoungTianryan）👋</h1>
 
 <p align="center">
-  我喜欢把想法做成实用的工具，并在这里记录项目与学习过程。<br />
-  I build useful tools and share what I learn along the way.
+  我在做嵌入式和硬件相关项目，也开发配套的桌面工具。目前关注 WCH 芯片开发、设备下载与串口调试。
 </p>
 
----
-
-### 🛠️ 这里会有什么
-
-- 我正在开发和维护的项目
-- 开发过程中整理的经验与笔记
-- 值得分享的小工具和新想法
-
-欢迎通过 GitHub 交流。更多项目会陆续整理到这里。
+<p align="center">这里记录项目实践、遇到的问题和解决方法；准备好公开的代码也会陆续放上来。</p>
