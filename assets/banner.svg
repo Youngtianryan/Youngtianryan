@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">YoungTianryan</title>
+  <desc id="desc">A dark gradient banner with cyan and violet circuit lines and the words Ideas into useful tools.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101827"/>
+      <stop offset="0.58" stop-color="#172139"/>
+      <stop offset="1" stop-color="#241a47"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#66e3db"/>
+      <stop offset="1" stop-color="#a890ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="24" fill="url(#background)"/>
+  <g fill="none" stroke="#7ed8e7" stroke-opacity=".22" stroke-width="2">
+    <path d="M0 52h126l46 46h119"/>
+    <path d="M0 202h91l49-49h118"/>
+    <path d="M1200 50h-158l-52 52h-112"/>
+    <path d="M1200 221h-119l-47-47h-124"/>
+    <path d="M93 0v31l31 31"/>
+    <path d="M1087 280v-37l-33-33"/>
+  </g>
+  <g fill="#66e3db" opacity=".8">
+    <circle cx="291" cy="98" r="5"/>
+    <circle cx="258" cy="153" r="5"/>
+    <circle cx="878" cy="102" r="5"/>
+    <circle cx="910" cy="174" r="5"/>
+  </g>
+  <rect x="455" y="57" width="290" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="600" y="134" fill="#f7f9ff" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" text-anchor="middle">YoungTianryan</text>
+  <text x="600" y="184" fill="#b5c5da" font-family="Arial, Helvetica, sans-serif" font-size="25" text-anchor="middle">Ideas into useful tools</text>
+</svg>
